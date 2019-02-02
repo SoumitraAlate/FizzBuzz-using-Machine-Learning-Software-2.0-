@@ -1,1 +1,1 @@
-# Machine-Learning-CSE-574
+FizzBuzz implementation using the Machine Learning Approach (Software 2.0)
